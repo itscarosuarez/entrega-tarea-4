@@ -5,7 +5,6 @@ const prisma = new PrismaClient();
 async function main() {
   console.log('🌱 Iniciando seed...');
 
-  // Datos basados en tu galería original
   const products = [
     {
       titulo: 'La Mona Lisa',
@@ -44,8 +43,6 @@ async function main() {
       data: product
     });
   }
-
-  console.log('✅ Seed completado!');
 }
 
 main()
