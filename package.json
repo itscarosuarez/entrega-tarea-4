@@ -17,7 +17,6 @@
     "url": "git+https://github.com/itscarosuarez/entrega-tarea-4.git"
   },
   "keywords": ["express", "typescript", "prisma", "sqlite", "api"],
-  "author": "Caro Suarez - Prisma y Express instalados",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itscarosuarez/entrega-tarea-4/issues"
